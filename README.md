@@ -14,7 +14,7 @@ The following items can be imported by the addon:
 * Buildings. Building height, number of floors are used to create the final scene. Composition into 3D parts for a building with the complex structure is also processed.
 * Water objects (rivers and lakes). Imported as polygons. Coastlines for seas and oceans are importes as edges.
 * Highways, paths and railways. Imported as edges.
-* Vegetation (forests, grass, scrubs). Imported as polygons.
+* Vegetation areas (forests, grass, scrubs). Imported as polygons.
 
 Polygons with holes are supported!
 
