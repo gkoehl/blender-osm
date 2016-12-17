@@ -47,3 +47,5 @@ For detailed instructions, limitations, tips and tricks see the [Documentation](
 * blenderartists.org: [thread](http://blenderartists.org/forum/showthread.php?334508-Addon-Import-OpenStreetMap-(-osm))
 <br>post there questions, nice renderings created with the addon and your experience with the addon
 * bugs and feature requests: [issues](https://github.com/vvoovv/blender-osm/issues)
+
+[![](https://raw.githubusercontent.com/wiki/vvoovv/blender-osm/images/moscow_kremlin.png)](https://gumroad.com/l/blender-osm)
