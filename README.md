@@ -43,6 +43,7 @@ For detailed instructions, limitations, tips and tricks see the [Documentation](
 ## Links
 * [Addon](https://gumroad.com/l/blender-osm)
 * [Documentation](https://github.com/vvoovv/blender-osm/wiki/Documentation)
+* e-mail: [prokitektura+support@gmail.com](mailto:prokitektura+support@gmail.com)
 * twitter: [@prokitektura](https://twitter.com/prokitektura)
 * blenderartists.org: [thread](http://blenderartists.org/forum/showthread.php?334508-Addon-Import-OpenStreetMap-(-osm))
 <br>post there questions, nice renderings created with the addon and your experience with the addon
