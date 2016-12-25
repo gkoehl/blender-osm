@@ -46,7 +46,7 @@ For detailed instructions, limitations, tips and tricks see the [Documentation](
 * e-mail: [prokitektura+support@gmail.com](mailto:prokitektura+support@gmail.com)
 * twitter: [@prokitektura](https://twitter.com/prokitektura)
 * blenderartists.org: [thread](http://blenderartists.org/forum/showthread.php?334508-Addon-Import-OpenStreetMap-(-osm))
-<br>post there questions, nice renderings created with the addon and your experience with the addon
+<br>post questions, nice renderings created with the addon and your experience with the addon
 * bugs and feature requests: [issues](https://github.com/vvoovv/blender-osm/issues)
 
 [![](https://raw.githubusercontent.com/wiki/vvoovv/blender-osm/images/moscow_kremlin.png)](https://gumroad.com/l/blender-osm)
